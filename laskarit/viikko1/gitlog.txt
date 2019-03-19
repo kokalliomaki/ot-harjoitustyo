@@ -1,0 +1,113 @@
+commit 42f32673c59fad96dd41fad8cb3107a8a47f4384
+Author: Kalle Kalliomaki <kalle.kalliomaki@gmail.com>
+Date:   Tue Mar 19 16:19:48 2019 +0200
+
+    oisko done
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 12e3aea43d0ec038383a305bbc4ca79de4f738e8
+Author: Kalle Kalliomaki <kalle.kalliomaki@gmail.com>
+Date:   Tue Mar 19 16:15:47 2019 +0200
+
+    uus hakemisto
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 8594c7602e7331ffc18c4e989ce84d57e510ceea
+Author: Kalle Kalliomaki <kalle.kalliomaki@gmail.com>
+Date:   Tue Mar 19 16:10:42 2019 +0200
+
+    muutellaan asioita
+
+ eka.txt    | 6 ++++--
+ kolmas.txt | 5 ++++-
+ 2 files changed, 8 insertions(+), 3 deletions(-)
+
+commit 9f11cfe56bed7acce4ccd77460c27f9846ddbe6c
+Author: Kalle Kalliomaki <kalle.kalliomaki@gmail.com>
+Date:   Tue Mar 19 16:07:56 2019 +0200
+
+    nimen vaihot
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 0c86e45fdbd2edcd0a3b95615c2e44f3bfb40117
+Author: Kalle Kalliomaki <kalle.kalliomaki@gmail.com>
+Date:   Tue Mar 19 16:07:07 2019 +0200
+
+    poisto
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 139d09171cd75db8fb4cfadef3c764008873c6ae
+Author: Kalle Kalliomaki <kalle.kalliomaki@gmail.com>
+Date:   Tue Mar 19 16:05:57 2019 +0200
+
+    boulderointimuutoksia
+
+ tiedosto.txt | 6 ++++--
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+
+commit 59682f20dca89c8c0628525be19b3b2635e7a211
+Author: Kalle Kalliomaki <kalle.kalliomaki@gmail.com>
+Date:   Tue Mar 19 15:54:55 2019 +0200
+
+    bouldering
+
+ tiedosto.txt | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+commit c8747f9f95ad0362da27a09fbfb1c046d5933ac8
+Author: Kalle Kalliomaki <kalle.kalliomaki@gmail.com>
+Date:   Tue Mar 19 15:28:21 2019 +0200
+
+    uusi hakemisto
+
+ stuff/jokin.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 04304e8ada24e31926464b1bb0fc5156ac0ef983
+Author: Kalle Kalliomaki <kalle.kalliomaki@gmail.com>
+Date:   Tue Mar 19 15:27:33 2019 +0200
+
+    muutoksia
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit cb050fcec853b9a665f3be5c17b6b3ce58edd2ec
+Author: Kalle Kalliomaki <kalle.kalliomaki@gmail.com>
+Date:   Tue Mar 19 15:26:58 2019 +0200
+
+    uusi tiedosto
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 8fda4f3e84c4c4e8370b34e8f7b7afe5d46b74d3
+Author: Kalle Kalliomaki <kalle.kalliomaki@gmail.com>
+Date:   Tue Mar 19 15:23:23 2019 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 8956c6dbf332251bca77f4c81e8c6882d91de2db
+Author: Kalle Kalliomaki <kalle.kalliomaki@gmail.com>
+Date:   Tue Mar 19 15:21:34 2019 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
