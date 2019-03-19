@@ -1,7 +1,8 @@
-# Readme muotoiluharjoitus
+# Ohjelmistotekniikka, harjoitustyö
 
-Testataan erilaisia **tapoja** muotoilla _tekstiä._
+## Tehtävät
 
-1. Tehdään
-1. myös
-1. lista.
+### Viikko 1
+
+1. [gitlog.txt] https://github.com/kokalliomaki/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt
+1. [komentorivi.txt] https://github.com/kokalliomaki/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt
