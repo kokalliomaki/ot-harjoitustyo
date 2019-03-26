@@ -5,6 +5,7 @@
 ### Dokumentaatio
 
 [Vaatimusmäärittely](https://github.com/kokalliomaki/ot-harjoitustyo/blob/master/Luolastoseikkailu/dokumentaatio/vaatimusmaarittely.md)
+
 [Työaikakirjanpito](https://github.com/kokalliomaki/ot-harjoitustyo/blob/master/Luolastoseikkailu/dokumentaatio/tuntikirjanpito.md)
 
 ## Tehtävät
