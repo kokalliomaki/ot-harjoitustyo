@@ -1,4 +1,10 @@
-# Ohjelmistotekniikka, harjoitustyö
+# Ohjelmistotekniikka
+
+## Harjoitustyö, luolastoseikkailu
+
+### Dokumentaatio
+
+[Vaatimusmäärittely](https://github.com/kokalliomaki/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md) 
 
 ## Tehtävät
 
@@ -9,4 +15,4 @@
 
 ### Viikko 2
 
-1. [Screenshot testiraportista](https://github.com/kokalliomaki/ot-harjoitustyo/blob/master/laskarit/viikko2/testiSS.png)
+[Screenshot testiraportista](https://github.com/kokalliomaki/ot-harjoitustyo/blob/master/laskarit/viikko2/testiSS.png)
