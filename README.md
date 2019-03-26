@@ -4,7 +4,7 @@
 
 ### Dokumentaatio
 
-[Vaatimusmäärittely](https://github.com/kokalliomaki/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md) 
+[Vaatimusmäärittely](https://github.com/kokalliomaki/ot-harjoitustyo/blob/master/Luolastoseikkailu/dokumentaatio/vaatimusmaarittely.md) 
 
 ## Tehtävät
 
