@@ -17,3 +17,6 @@
 ### Viikko 2
 
 [Screenshot testiraportista](https://github.com/kokalliomaki/ot-harjoitustyo/blob/master/laskarit/viikko2/testiSS.png)
+
+### Viikko 3
+[Linkki viikon screenshotteihin](https://github.com/kokalliomaki/ot-harjoitustyo/blob/master/laskarit/viikko3/)
