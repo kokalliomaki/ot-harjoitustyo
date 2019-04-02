@@ -28,6 +28,8 @@ public class Luolastoseikkailu {
         }
         Map test = new Map(testmap, 1);
         Player player = new Player("Timo", 1, 1, test);
+        Monster orc = new Orc(18, 8, test);
+        Monster orc2 = new Orc(13, 1, test);
         System.out.print(test);
         while (true) {            
             System.out.print("\nKomento: ");
@@ -59,7 +61,10 @@ public class Luolastoseikkailu {
                     break;
                 case 'q':
                     return;
+                default:
+                    continue;
             }
+            test.moveMonsters();
             System.out.print(test);
         }
     }
