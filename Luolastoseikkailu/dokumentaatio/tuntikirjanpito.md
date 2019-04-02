@@ -2,5 +2,6 @@
 
 | päivä | aika | mitä tein  |
 | :----:|:-----| :-----|
-| 26.3. | 2    | Aiheen valinta ja pohdinta, määrittelydokumentti |
-| yht   | 2    | |
+| 26.3. | 2h   | Aiheen valinta ja pohdinta, määrittelydokumentti |
+| 2.4.  | 4h   | Projektin rakenteen suunnittelua, ensimmäisten perustoiminnallisuksien koodaus |
+| yht   | 6h   | |
