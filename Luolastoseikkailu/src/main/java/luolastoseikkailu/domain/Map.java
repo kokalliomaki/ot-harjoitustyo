@@ -37,9 +37,15 @@ public class Map {
         for (Monster monster : monsters) {
             monster.move(0, 0);
             
+        }              
+    }
+    
+    public void combat(Monster attacker, Monster defender) {
+        int damage = attacker.getAttack() - defender.getArmor();
+        if (!defender.takeDamage(damage)) {
+            this.map[defender.getY()][defender.getX()].removeOccupant();
+            this.monsters.remove(defender);
         }
-        
-        
     }
     
     
