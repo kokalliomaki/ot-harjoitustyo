@@ -6,7 +6,8 @@ Toistaiseksi ohjelma on suoritettavissa ainakin Netbeansilla, komentorivitoimivu
 
 ## Toiminnallisuus
 
-Ohjelman raakaversiossa ei toistaiseksi ole muita ominaisuuksia, kuin mahdollisuus liikkua ja lopettaa peli.  
+Ohjelman raakaversiossa ei toistaiseksi ole muita ominaisuuksia, kuin mahdollisuus liikkua ja lopettaa peli.
+Viikolla 4 ohjelmaan on implementoitu myös alkeellinen taistelu. 
 
 Toistaiseksi ainoat tunnistetut komennot ovat numpadin eri suuntia vastaavat numerot, eli 1-9 (pl. 5) ja q, joka sulkee ohjelman.
 
