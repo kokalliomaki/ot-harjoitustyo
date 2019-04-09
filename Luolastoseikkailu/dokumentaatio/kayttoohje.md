@@ -1,13 +1,13 @@
-# Käyttöohje
+# KÃ¤yttÃ¶ohje
 
-## Ohjelman käynnistäminen
+## Ohjelman kÃ¤ynnistÃ¤minen
 
-Toistaiseksi ohjelma on suoritettavissa ainakin Netbeansilla, komentorivitoimivuutta en ole vielä testannut
+Toistaiseksi ohjelma on suoritettavissa ainakin Netbeansilla, komentorivitoimivuutta en ole vielÃ¤ testannut
 
 ## Toiminnallisuus
 
-Ohjelman raakaversiossa ei toistaiseksi ole muita ominaisuuksia, kuin mahdollisuus liikkua ja lopettaa peli.
+Ohjelman raakaversiossa ei toistaiseksi ole muita ominaisuuksia, kuin mahdollisuus liikkua ja lopettaa peli.  
 
 Toistaiseksi ainoat tunnistetut komennot ovat numpadin eri suuntia vastaavat numerot, eli 1-9 (pl. 5) ja q, joka sulkee ohjelman.
 
-Kartalla on kaksi vihollista, jotka liikkuvat satunnaisesti, minkäänlaista taistelua ei vielä ole implementoitu.
+Kartalla on kaksi vihollista, jotka liikkuvat satunnaisesti, minkÃ¤Ã¤nlaista taistelua ei vielÃ¤ ole implementoitu.
