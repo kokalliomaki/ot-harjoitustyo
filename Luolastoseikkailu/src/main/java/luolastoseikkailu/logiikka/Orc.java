@@ -1,5 +1,5 @@
 
-package luolastoseikkailu.domain;
+package luolastoseikkailu.logiikka;
 
 import java.util.Random;
 

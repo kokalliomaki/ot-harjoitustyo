@@ -1,5 +1,5 @@
 
-package luolastoseikkailu.domain;
+package luolastoseikkailu.logiikka;
 
 public class Player implements Monster {
     private String name;

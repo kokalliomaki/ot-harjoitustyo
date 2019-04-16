@@ -1,7 +1,11 @@
 
-package luolastoseikkailu.domain;
+package luolastoseikkailu.ui;
 
 import java.util.Scanner;
+import luolastoseikkailu.logiikka.Map;
+import luolastoseikkailu.logiikka.Monster;
+import luolastoseikkailu.logiikka.Orc;
+import luolastoseikkailu.logiikka.Player;
 
 
 public class Luolastoseikkailu {

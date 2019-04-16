@@ -1,7 +1,7 @@
 
-import luolastoseikkailu.domain.Map;
-import luolastoseikkailu.domain.Player;
-import luolastoseikkailu.domain.MapSquare;
+import luolastoseikkailu.logiikka.Map;
+import luolastoseikkailu.logiikka.Player;
+import luolastoseikkailu.logiikka.MapSquare;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
